@@ -17,6 +17,11 @@ It was developed as **Task-01** for my **Web Development Internship at Prodigy I
 - CSS3  
 - JavaScript (Vanilla)
 
+## 📁 Project Structure
+## 🚀 Live Demo
+
+[Click here to play Tic Tac Toe](https://chaitanya0313.github.io/Interactive-navbar/)
+
 ## 📎 Task Info
 
 - Internship: Prodigy InfoTech  
