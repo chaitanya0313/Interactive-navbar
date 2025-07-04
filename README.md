@@ -20,7 +20,7 @@ It was developed as **Task-01** for my **Web Development Internship at Prodigy I
 ## 📁 Project Structure
 ## 🚀 Live Demo
 
-[Click here to play Tic Tac Toe](https://chaitanya0313.github.io/Interactive-navbar/)
+[Click here to play](https://chaitanya0313.github.io/Interactive-navbar/)
 
 ## 📎 Task Info
 
