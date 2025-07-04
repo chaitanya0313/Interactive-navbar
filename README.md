@@ -17,11 +17,6 @@ It was developed as **Task-01** for my **Web Development Internship at Prodigy I
 - CSS3  
 - JavaScript (Vanilla)
 
-## 📁 Project Structure
-## 🔗 Live Demo
-
-[https://krishmali-7171.github.io/Interactive-navbar/](https://krishmali-7171.github.io/Interactive-navbar/)
-
 ## 📎 Task Info
 
 - Internship: Prodigy InfoTech  
